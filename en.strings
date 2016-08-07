@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  nabokov_test_project
+
+  Created by Anton Domashnev on 07/08/16.
+  Copyright © 2016 Anton Domashnev. All rights reserved.
+*/
+
+"Greeting" = "Hi";
