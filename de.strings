@@ -1,4 +1,4 @@
-/*
+/* 
   Localizable.strings
   nabokov_test_project
 
@@ -7,3 +7,4 @@
 */
 
 "Greeting" = "Hallo";
+"Day" = "Tag";
