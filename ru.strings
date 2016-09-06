@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  nabokov_xcode_project
+
+  Created by Anton Domashnev on 06/09/16.
+  Copyright © 2016 antondomashnev. All rights reserved.
+*/
+
+"ok" = "Подтвердить";
+"cancel" = "Отмена";
